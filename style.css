@@ -158,3 +158,12 @@ tr, td, th {
     border-radius: 10px;
     background-color: lightgray;
 }
+
+#requiredID {
+    float: right; 
+    border: black;
+    border-style: dashed; 
+    border-width: 2px; 
+    margin-right: 1%;
+    width: 20%;
+}
